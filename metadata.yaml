@@ -1,0 +1,25 @@
+_repo: Juutalaiset-ja-me_74388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tallqvist, Knut
+    gutenberg_agent_id: '57483'
+    url: http://www.gutenberg.org/2009/agents/57483
+description: ''
+gutenberg_issued: '2024-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74388'
+language: fi
+pgterms:marc905: 20240901002032tallqvist
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bOtava, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Juutalaiset ja me
+url: http://www.gutenberg.org/ebooks/74388
